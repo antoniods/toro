@@ -911,7 +911,7 @@ h5,
 }
 
 .site-hero {
-  margin-bottom: 10rem;
+  margin-bottom: 6rem;
 }
 .site-hero,
 .site-hero .row {
@@ -941,7 +941,7 @@ h5,
 }
 @media (min-width: 992px) {
   .site-hero h1 {
-    font-size: 3.8rem;
+    font-size: 2.8rem;
   }
 }
 .site-hero .caption {
