@@ -1169,6 +1169,11 @@ h5,
   line-height: 40px;
 }
 
+.blackandwhite {
+  filter: gray;
+  filter: grayscale(100%);
+}
+
 /* mobile devise home */
 
 @media (max-width: 767.98px) {

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1563px" height="81px" viewBox="0 0 1563 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>roadmap</title>
+    <defs>
+        <linearGradient x1="100%" y1="50.0734172%" x2="0%" y2="49.9265828%" id="linearGradient-1">
+            <stop stop-color="#E8C697" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E8C697" offset="11.8913557%"></stop>
+            <stop stop-color="#DFB06E" offset="49.6051068%"></stop>
+            <stop stop-color="#E8C697" offset="78.1325974%"></stop>
+            <stop stop-color="#E8C697" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#9BBFDC" offset="0%"></stop>
+            <stop stop-color="#9283C9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TokenLaunch-Desktop-Concept-01" transform="translate(-59.000000, -2998.000000)">
+            <g id="roadmap" transform="translate(60.000000, 2998.000000)">
+                <path d="M0,70.2 C75.6809545,31.183033 150.755954,11.6745495 225.225,11.6745495 C336.928568,11.6745495 327.992615,73.6318891 446.94,70.2 C565.887385,66.7681109 559.275757,10.53 670.41,10.53 C781.544243,10.53 780.674662,70.2 891.54,70.2 C1002.40534,70.2 1002.69,10.53 1113.84,10.53 C1224.99,10.53 1224.39323,70.2 1336.14,70.2 C1410.63785,70.2 1485.51785,50.31 1560.78,10.53" id="Path-2" stroke="url(#linearGradient-1)" stroke-width="1.5" stroke-dasharray="12,8"></path>
+                <circle id="Oval" stroke="url(#linearGradient-2)" fill="#FDFDFE" cx="224.64" cy="10.53" r="10.03"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-2)" fill="#FDFDFE" cx="670.41" cy="10.53" r="10.03"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-2)" fill="#FDFDFE" cx="457.37" cy="70.2" r="10.03"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-2)" fill="#FDFDFE" cx="1079.84" cy="10.53" r="10.03"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-2)" fill="#FDFDFE" cx="891.54" cy="70.2" r="10.03"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
